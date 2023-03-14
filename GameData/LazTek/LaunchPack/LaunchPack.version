@@ -1,0 +1,41 @@
+{
+	"NAME"			 : "Launch Pack (LLP) by LazTek",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/LaunchPack/master/LaunchPack.version",
+	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/LaunchPack/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/LaunchPack/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "LaunchPack",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 9,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 90,
+		"PATCH" : 0
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 90,
+		"PATCH" : 0
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "LaunchPack",
+		"DIRECTORY" : "LazTek/LaunchPack"
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
+	}
+}
