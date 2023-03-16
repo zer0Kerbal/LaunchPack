@@ -49,7 +49,41 @@ updated: 01 Oct 2022 -->
   <img src="https://raw.githubusercontent.com/zer0Kerbal/LaunchPack/master/docs/thumbs/llp-solar-panel_icon.png" alt="solar-panel" width="25%" height="25%" />
   <img src="https://raw.githubusercontent.com/zer0Kerbal/LaunchPack/master/docs/thumbs/llp-tank-dragon-mono-200_icon.png" alt="tank-dragon-mono-200" width="25%" height="25%" />
   <img src="https://raw.githubusercontent.com/zer0Kerbal/LaunchPack/master/docs/thumbs/llp-tank-dragon-mono-400_icon.png" alt="tank-dragon-mono-400" width="25%" height="25%" />
-
+llp-eng-draco_icon.png"
+llp-eng-merlin-1D_icon.png"
+llp-eng-merlin-1D-vac_icon.png"
+llp-eng-plate-merlin_icon.png"
+llp-eng-sep_icon.png"
+llp-fairing-falcon-9-inter_icon.png"
+llp-fairing-falcon-base_icon.png"
+llp-fairing-falcon-expanded_icon.png"
+llp-fairing-falcon-heavy-inter_icon.png"
+llp-fin-grid_icon.png"
+llp-fin-grid-sm_icon.png"
+llp-ladder-dragon_icon.png"
+llp-leg-falcon-lower_icon.png"
+llp-leg-falcon-upper_icon.png"
+llp-nosecone-dragon-2_icon.png"
+llp-nosecone-dragon-2-retractable_icon.png"
+llp-nosecone-falcon-heavy_icon.png"
+llp-pod-dragon-2_icon.png"
+llp-probe-falcon-250_icon.png"
+llp-sherpa-core_icon.png"
+llp-solar-cover_icon.png"
+llp-solar-dragon_icon.png"
+llp-tank-falcon-main_icon.png"
+llp-tank-falcon-upper_icon.png"
+llp-tank-sherpa_icon.png"
+llp-trunk-dragon_icon.png"
+llp-trunk-dragon-2_icon.png"
+llp-bay-payload_icon.png"
+llp-chute-dragon_icon.png"
+llp-chute-dragon-2_icon.png"
+llp-decoupler-radial_icon.png"
+llp-decoupler-sps_icon.png"
+llp-decoupler-trunk_icon.png"
+llp-dock-dragon_icon.png"
+llp-dragon-cargo_icon.png"
 [top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
