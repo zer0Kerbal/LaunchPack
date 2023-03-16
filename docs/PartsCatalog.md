@@ -83,7 +83,7 @@ llp-decoupler-radial_icon.png"
 llp-decoupler-sps_icon.png"
 llp-decoupler-trunk_icon.png"
 llp-dock-dragon_icon.png"
-llp-dragon-cargo_icon.png"
+llp-pod-cargo_icon.png"
 [top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
