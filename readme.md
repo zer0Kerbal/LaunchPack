@@ -1,7 +1,7 @@
-<!-- readme.md v1.0.1.0
+<!-- readme.md v1.0.2.0
 Launch Pack (LLP)
 created: 13 Dec 2022
-updated: 16 Mar 2023
+updated: 17 Mar 2023
 
 TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
@@ -119,6 +119,7 @@ NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][
 ### Localization
 
 >* ![English][EN] English
+>* ![日本語][JA] Japanese(日本語) - Arigatō (ありがとう) [Paras0750](https://github.com/Paras0750)
 >* ***your translation here***
 
 ### Installation Directions
@@ -302,6 +303,7 @@ Comment, click, like, share, up-vote, subscribe
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
