@@ -55,6 +55,7 @@ updated: 03 Jun 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png " alt="日本語]" style="zoom:100%;" /> Japanese(日本語) - Arigatō (ありがとう)<a href="https://github.com/Paras0750"> Paras0750</li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
