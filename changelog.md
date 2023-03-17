@@ -17,7 +17,7 @@
 ### Summary 0.9.99.0
 
 * Not everything is updated, but the important things should be
-* Habitat's IVA is included, but basic-er
+* Pod's IVA is included, but basic-er
 * Stock Balance pass needed
 * loads of behind the scenes changes
 * Standard assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) are available (LD and MD)
@@ -27,8 +27,8 @@
 * Dependencies:
   * LazTek Dev
 * size reduction
-  * archive size reduced from 24.5 mb --> 14 mb
-  * disk size reduced from 329 mb --> 120 mb
+  * archive size reduced from 24.5 mb --> 10.9 mb
+  * disk size reduced from 329 mb --> 75 mb
 
 ### Archival Releases
 
@@ -46,11 +46,11 @@
 * Create
   * [LaunchPack.cfg] v1.0.0.0
     * adds localized tags to parts
+* closes #9 - Create Localization directory and contents
 * closes #11 - Create <LaunchPack.cfg>
 * closes #15 - English <en-us.cfg>
-* closes #32 - Part Localization
 * closes #33 - Part Tags
-* closes #9 - Create Localization directory and contents
+* closes #32 - Part Localization
 * updates #14 - Localization - Master
 
 ### Parts 0.9.99.0
