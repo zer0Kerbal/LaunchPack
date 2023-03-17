@@ -7,6 +7,38 @@
 | github     | (https://github.com/zer0Kerbal/LaunchPack)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LaunchPack) |
 
+## Version 0.9.99.1-adoption - `<Arigatō (ありがとう) Paras0750>` edition
+
+* Released
+  * 12 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Localization 0.9.99.1
+
+* Add
+  * Japanese(日本語)
+    * <ja.cfg> v1.0.0.0
+    * Add Japanese localization 
+    * Arigatō (ありがとう) [Paras0750](https://github.com/Paras0750)
+* closes #21 - Japanese (日本語) <ja.cfg>
+* updates #14 - Localization - Master
+
+### docs/ 0.9.99.1
+
+* Update
+  * [Attributions.md]
+  * [Localizations.md]
+  * [readme.md] v1.0.2.0
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #38 - Launch Pack (LLP) 0.9.99.1-prerelease `<Arigatō (ありがとう) Paras0750>` edition
+  * closes #39 - 0.9.99.1 Additional Tasks
+
+---
+
 ## Version 0.9.99.0-adoption - `<Thank you LazarusLuan>` edition
 
 * Released
