@@ -18,7 +18,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 35-piece complete parts pack for KSP that includes the SpaceX Dragon V2, Dragon Cargo, Falcon 9 v1.1, Falcon Heavy and SHERPA launch systems. For Kerbal Space Program.
 
-NOTE: only the normal textures are included, the 'HD' / 'LD' textures are available to download and use instead. Only one is intended to be used at once, and in fact installing another should replace the existing textures.
+NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][ld] textures are available to download and use instead. Only one is intended to be used at once, and in fact installing another should replace the existing textures.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusluan]
 
@@ -28,7 +28,7 @@ NOTE: only the normal textures are included, the 'HD' / 'LD' textures are availa
 
 > The LazTek Launch Pack is designed as an add-on for our LazTek Launch Pack, and the included .craft files require the installation of the Launch Pack to load correctly.
 >
-> Available for download in low, medium and high resolution versions, these mods include replicas of the new LazTek Dragon V2 capsule and trunk, LazTek Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Exploration Expansion, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the LazTek Exploration Expansion for access to the original DragonRider concept spacecraft.
+> Available for download in [low][ld], medium and [high][hr] resolution versions, these mods include replicas of the new LazTek Dragon V2 capsule and trunk, LazTek Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Exploration Expansion, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the LazTek Exploration Expansion for access to the original DragonRider concept spacecraft.
 
 ### Included
 
@@ -281,6 +281,9 @@ Comment, click, like, share, up-vote, subscribe
 [SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights (SIL)"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
+
+[ld]: https://github.com/zer0Kerbal/LaunchPackTextures "low resolution textures"
+[hd]: https://github.com/zer0Kerbal/LaunchPackTextures "high resolution textures"
 
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
