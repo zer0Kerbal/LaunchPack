@@ -282,8 +282,8 @@ Comment, click, like, share, up-vote, subscribe
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 
-[ld]: https://github.com/zer0Kerbal/LaunchPackTextures "low resolution textures"
-[hd]: https://github.com/zer0Kerbal/LaunchPackTextures "high resolution textures"
+[ld]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPackTextures "low resolution textures"
+[hd]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPackTextures "high resolution textures"
 
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
