@@ -1,11 +1,11 @@
-<!-- readme.md v1.0.0.0
+<!-- readme.md v1.0.1.0
 Launch Pack (LLP)
 created: 13 Dec 2022
 updated: 16 Mar 2023
 
-TEMPLATE: readme.md v1.7.0.3
+TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
-updated: 17 Feb 2023
+updated: 15 Mar 2023
 
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
@@ -123,10 +123,9 @@ NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][
 
 ### Installation Directions
 
-***Only available on***
-  CurseForge Website / OverWolf App
+Most recent releases only available via CurseForge/OverWolf Website/App
 
-  <a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%"></a>
+<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="100px"></a>
 
 ### Dependencies
 
@@ -309,6 +308,8 @@ Comment, click, like, share, up-vote, subscribe
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
+[steam]: https://steamcommunity.com/id/zeroKerbal
+[projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
 [LazarusLuan]: https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/ "LazarusLuan"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
@@ -317,4 +318,4 @@ Comment, click, like, share, up-vote, subscribe
 
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/LaunchPack/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br> 
