@@ -28,7 +28,7 @@ NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][
 
 > The LazTek Launch Pack is designed as an add-on for our LazTek Launch Pack, and the included .craft files require the installation of the Launch Pack to load correctly.
 >
-> Available for download in [low][ld], medium and [high][hr] resolution versions, these mods include replicas of the new LazTek Dragon V2 capsule and trunk, LazTek Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Exploration Expansion, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the LazTek Exploration Expansion for access to the original DragonRider concept spacecraft.
+> [Low][texture], [medium][texture] and [high][texture] resolutions are available for these mods which include replicas of the new SpaceX Dragon V2 capsule and trunk, SpaceX Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Historic Archive, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the SpaceX Historic Archive for access to the original DragonRider concept spacecraft.
 
 ### Included
 
@@ -73,7 +73,7 @@ NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][
 * Gridfin (Retractable control surface)
 * Small Gridfin (Attaches to Falcon 9 and Falcon Heavy interstages and remote controls in sets of 4)
 
-* Ships (.craft)
+* Ships (.craft) (might be out of date)
   * LazTek Dragon V2 with SHERPA remote satellite launching system - Designed to shuttle kerbalnauts and cargo to and from low Kerbin orbit with the ability to launch multiple secondary satellite payloads through its SHERPA launch and control system
   * LazTek Dragon V1 Cargo with SHERPA remote satellite launching system - Designed to shuttle cargo to and from orbiting space stations with the ability to launch multiple secondary satellite payloads through its SHERPA launch and control systemCarries extra monopropellant and uses reverse-mounted claw for towing objects. 
   * LazTek Falcon 9 v1.1 - Designed to launch light to medium-heavy payloads (up to 40 mass) into any orbit
@@ -136,7 +136,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * [LazTek Dev (LTD)][LTD]'s
   * [Colonial Transport (LCT)][LCT]
-  * [Exploration Expansion (LHA)][LHA]
+  * [Exploration Expansion (LEE)][LEE]
   * [Historic Archive (LHA)][LHA]
 
 ### Suggests
@@ -266,10 +266,12 @@ Comment, click, like, share, up-vote, subscribe
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [KAMP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/ "Adjustable Mod Panel (KAMP)"
 [KDVA]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics (KDVA)"
-[LTD]: https://github.com/zer0Kerbal/LazTekDev "LazTek Dev (LTD)"
-[LHA]: https://github.com/zer0Kerbal/HistoricArchive "Exploration Expansion (LHA)"
-[LCT]: https://github.com/zer0Kerbal/ColonialTransporter "Colonial Transporter (LCT)"
-[LLP]: https://github.com/zer0Kerbal/LaunchPack "Launch Pack (LLP)"
+[LTD]: https://www.curseforge.com/kerbal/ksp-mods/LazTekDev "LazTek Dev (LTD)"
+[LCT]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "Colonial Transporter (LCT)"
+[LEE]: https://www.curseforge.com/kerbal/ksp-mods/ExplorationExpansion "ExplorationExpansion (LEE)"
+[LHA]: https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive "HistoricArchive (LHA)"
+[LLP]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPack "LaunchPack (LLP)"
+
 [MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
 [NOTES]: https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*/ "SimpleNotes! (NOTES)"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon! (NSSC)"
@@ -282,8 +284,7 @@ Comment, click, like, share, up-vote, subscribe
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 
-[ld]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPackTextures "low resolution textures"
-[hd]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPackTextures "high resolution textures"
+[texture]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPackTextures "alternative resolution textures"
 
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
